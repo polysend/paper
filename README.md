@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-In today's rapidly evolving digital economy, blockchain-based tokens have emerged as a promising alternative to traditional payment methods. However, despite their potential benefits, the user experience of making token payments remains cumbersome, requiring multiple steps and technical knowledge that creates significant barriers to adoption.
+Blockchain-based tokens have emerged as a promising alternative to traditional payment methods. However, despite their potential benefits, the user experience of making token payments remains cumbersome, requiring multiple steps and technical knowledge that creates significant barriers to adoption.
 
 Polysend addresses this challenge through a browser extension that enables seamless, one-click token payments directly on websites. By eliminating complexity and focusing on security, privacy, and user experience, Polysend aims to accelerate the adoption of token-based payments across the web.
 
